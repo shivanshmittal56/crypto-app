@@ -1,3 +1,24 @@
+📈 Crypto Tracker
+Crypto Tracker is a powerful web application that provides real-time data on cryptocurrencies and exchanges. It offers live prices, market capitalization, trading volume, key metrics, and interactive charts for better visualization.
+
+Features
+Comprehensive Listings – Browse all available cryptocurrencies and exchanges
+Real-Time Data – Live price updates, market cap, and trading volume
+Interactive Charts – Visualize trends with dynamic graphs
+Detailed Insights – Access historical data, percentage changes, and more
+User-Friendly Interface – Clean, intuitive UI for seamless navigation
+
+🚀 Technologies Used
+React.js (Frontend)
+
+Tailwind CSS (Styling)
+
+API Integration for live crypto data
+
+Chart.js / Recharts for visualization
+
+This app is perfect for traders, investors, and crypto enthusiasts looking for up-to-date insights into the market.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
